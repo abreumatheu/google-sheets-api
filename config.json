@@ -1,0 +1,5 @@
+{
+    "client_email": "your-service-account-email@your-project.iam.gserviceaccount.com",
+    "private_key": "your-private-key",
+    "sheet_id": "your-google-sheet-id"
+}
